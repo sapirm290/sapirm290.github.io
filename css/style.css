@@ -15,6 +15,8 @@ html {
 .nav-item {
     padding: 10px;
     cursor: pointer;
+    color: teal;
+    font-size: 1.2rem;
 }
 
 #main-header {
@@ -30,4 +32,8 @@ html {
 .project-link {
     padding-left: 10px;
     padding-right: 10px;
+}
+
+h2 {
+    color: teal;
 }
