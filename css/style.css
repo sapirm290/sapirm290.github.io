@@ -1,0 +1,33 @@
+html {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.row {
+    text-align: center;
+    justify-content: center;
+}
+
+#nav {
+    display: flex;
+}
+
+.nav-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#main-header {
+    color: teal;
+    font-size: 3rem;
+    padding: 2rem;
+}
+
+#projects {
+    display: none;
+}
+
+.project-link {
+    padding-left: 10px;
+    padding-right: 10px;
+}
