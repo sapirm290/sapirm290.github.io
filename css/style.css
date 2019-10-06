@@ -12,11 +12,12 @@ html {
     display: flex;
 }
 
-.nav-item {
+.nav-item, a.nav-item {
     padding: 10px;
     cursor: pointer;
     color: teal;
     font-size: 1.2rem;
+    display: inline-block;
 }
 
 #main-header {

@@ -1,7 +1,7 @@
 $(document).ready(applyLinks)
 function applyLinks() {
     $('#homeLink').click(navHome)
-    $('#projectsLink').click(navProjects)
+    $('.nav-projects').click(navProjects)
 }
 function navHome() {
     $('#projects').hide();
