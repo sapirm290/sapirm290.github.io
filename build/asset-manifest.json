@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87be9565.chunk.css",
+    "main.js": "/static/js/main.3ddd1f4d.chunk.js",
+    "main.js.map": "/static/js/main.3ddd1f4d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c769a6af.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c769a6af.js.map",
+    "static/js/2.8395cded.chunk.js": "/static/js/2.8395cded.chunk.js",
+    "static/js/2.8395cded.chunk.js.map": "/static/js/2.8395cded.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.141f8be81b1047f0b29d14ffab85e4fb.js": "/precache-manifest.141f8be81b1047f0b29d14ffab85e4fb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.87be9565.chunk.css.map": "/static/css/main.87be9565.chunk.css.map",
+    "static/media/landing-page.PNG": "/static/media/landing-page.dc5f0a76.PNG",
+    "static/media/minecraft.PNG": "/static/media/minecraft.48274dcd.PNG",
+    "static/media/plan.PNG": "/static/media/plan.9abc870c.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c769a6af.js",
+    "static/js/2.8395cded.chunk.js",
+    "static/css/main.87be9565.chunk.css",
+    "static/js/main.3ddd1f4d.chunk.js"
+  ]
+}

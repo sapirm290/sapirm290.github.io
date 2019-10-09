@@ -1,0 +1,21 @@
+.demo {
+    background-color: #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 30%;
+}
+
+.project-description {
+    flex-basis: 70%;
+}
+
+.project-link {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: var(--main-color);
+}
