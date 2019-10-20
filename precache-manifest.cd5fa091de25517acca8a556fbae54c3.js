@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6484177f15b6a0d6b4fef2b3166faf02",
+    "revision": "859fd11cbe794b8d1f00355afddb0f88",
     "url": "/index.html"
   },
   {
-    "revision": "766f6e856fd304054ea9",
+    "revision": "94ed96fcfa848d0acb6c",
     "url": "/static/css/main.21a48e01.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1e64adbd.chunk.js"
   },
   {
-    "revision": "766f6e856fd304054ea9",
-    "url": "/static/js/main.1c23fd9c.chunk.js"
+    "revision": "94ed96fcfa848d0acb6c",
+    "url": "/static/js/main.a5d17f7b.chunk.js"
   },
   {
     "revision": "d2c34c306b50feecd713",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/plan.9abc870c.PNG"
   },
   {
-    "revision": "af409fee13e3974c76952aae20c9c4af",
-    "url": "/static/media/rides.af409fee.PNG"
+    "revision": "2ba86aa2e3d8487ae80e5532e6642033",
+    "url": "/static/media/rides.2ba86aa2.PNG"
   }
 ]);
